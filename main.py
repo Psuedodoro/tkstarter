@@ -38,10 +38,11 @@ root.mainloop()
 
 
 
-#   A command to remember!
-#   root.destroy() - a function that can close the tk window with the name "root"
-#
-#
-#   Something you should know.....
-#   HINT, to make a new window, on a new line type: newWindowRoot = TopLevel()  to make a new window!
-#
+#########################################################################################################
+#   A command to remember!																				#
+#   root.destroy() - a function that can close the tk window with the name "root"						#
+#																										#
+#																										#
+#   Something you should know.....																		#
+#   HINT, to make a new window, on a new line type: newWindowRoot = TopLevel()  to make a new window!	#
+#########################################################################################################
